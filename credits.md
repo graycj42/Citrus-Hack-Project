@@ -1,11 +1,12 @@
-##Libraries Used:
+# Credits
+## Libraries Used:
 [Adafruit-GFX-Library](https://github.com/adafruit/Adafruit-GFX-Library)
 [Adafruit_TouchScreen](https://github.com/adafruit/Adafruit_TouchScreen)
 [MCUFRIEND_kbv](https://github.com/prenticedavid/MCUFRIEND_kbv)
 
-#Licenses:
+# Licenses:
 
-#Adafruit-GFX-Library & Adafruit_TouchScreen:
+# Adafruit-GFX-Library & Adafruit_TouchScreen:
 
 Software License Agreement (BSD License)
 
@@ -32,7 +33,7 @@ CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 
-#MCUFRIEND_kbv:
+# MCUFRIEND_kbv:
 
 Software License Agreement (FreeBSD License)
 
